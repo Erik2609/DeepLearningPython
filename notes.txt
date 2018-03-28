@@ -1,0 +1,8 @@
+Custom Working Directory: "C:\Users\erik.torck\Desktop\Python"
+Python does not work with 3.6.4. use 3.5 instead
+Dont use sudo this is some Ubuntu method
+The pip directory is located at: "C:\Users\erik.torck\AppData\Local\Programs\Python\Python35\Scripts"
+Dont use python3
+Directories are from the root (e.g. C)
+Tensorboard can be called in the cmd (not python)
+Tensorboard needs the --host argument, use the following command: tensorboard --logdir=/Users/erik.torck/Desktop/Python/tmp/1 --host=127.0.0.1
